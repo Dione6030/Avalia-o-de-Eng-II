@@ -1,6 +1,7 @@
 const sum = require('./calculator').sum;
 const sub = require('./calculator').sub;
 const div = require('./calculator').div;
+const mult = require('./calculator').mult;
 const square = require('./calculator').square;
 
 test('É esperado a soma de 2 numeros', () => {
